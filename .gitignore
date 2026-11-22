@@ -212,6 +212,7 @@ tempCodeRunnerFile.py
 .ruff_cache/
 
 # PyPI configuration file
+# cSpell:ignore pypirc
 .pypirc
 
 # Marimo
